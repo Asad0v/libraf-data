@@ -1047,5 +1047,123 @@
                 "Səhifə................416"
             ]
         }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "comment": "Çox təsirli hekayədir."
+        },
+        {
+            "id": 2,
+            "comment": "Dünya ədəbiyyatının ən böyük romanlarından biri."
+        },
+        {
+            "id": 3,
+            "comment": "Həmişə aktual olan bir hekayə."
+        },
+        {
+            "id": 4,
+            "comment": "Uşaqlığımın ən sevimli kitablarından biri."
+        },
+        {
+            "id": 5,
+            "comment": "Çox güclü və təsirli roman."
+        },
+        {
+            "id": 6,
+            "comment": "Ədəbiyyatın ən böyük klassiklərindən."
+        },
+        {
+            "id": 7,
+            "comment": "Sabirin satiralari hələ də aktualdır."
+        },
+        {
+            "id": 8,
+            "comment": "Rus ədəbiyyatının incisi."
+        },
+        {
+            "id": 9,
+            "comment": "Uşaqlar üçün əla seçimdir."
+        },
+        {
+            "id": 10,
+            "comment": "Hər bir ziyalı üçün faydalı kitab."
+        },
+        {
+            "id": 11,
+            "comment": "Doğurdan da möhtəşə bir əsərdir!"
+        },
+        {
+            "id": 12,
+            "comment": "Hələki rəy yoxdur"
+        },
+        {
+            "id": 13,
+            "comment": "Hələki rəy yoxdur"
+        },
+        {
+            "id": 14,
+            "comment": "Hələki rəy yoxdur"
+        },
+        {
+            "id": 15,
+            "comment": "Hələki rəy yoxdur"
+        },
+        {
+            "id": 16,
+            "comment": "Hələki rəy yoxdur"
+        },
+        {
+            "id": 17,
+            "comment": "Hələki rəy yoxdur"
+        },
+        {
+            "id": 18,
+            "comment": "Hələki rəy yoxdur"
+        },
+        {
+            "id": 19,
+            "comment": "Hələki rəy yoxdur"
+        },
+        {
+            "id": 20,
+            "comment": "Hələki rəy yoxdur"
+        },
+        {
+            "id": 21,
+            "comment": "Müasir dillə yazılmış dərin məzmunlu əsər."
+        },
+        {
+            "id": 22,
+            "comment": "Orwellin üslubu oxucunu dərhal cəlb edir."
+        },
+        {
+            "id": 23,
+            "comment": "Kitabın təhqiqatı və süjeti çox güclüdür."
+        },
+        {
+            "id": 24,
+            "comment": "Elxan Elatlının üslubu oxucunu dərhal cəlb edir."
+        },
+        {
+            "id": 25,
+            "comment": "Əsərin dilinin sadəliyi və duyğusal tərəfi çox yaxşıdır."
+        },
+        {
+            "id": 26,
+            "comment": "Müxtəlif mədəniyyətləri araşdırmaq üçün yaxşı bir əsər."
+        },
+        {
+            "id": 27,
+            "comment": "Çox təsirli bir hekayədir, mütləq oxunmalıdır."
+        },
+        {
+            "id": 28,
+            "comment": "Müəllifin üslubu həmişə fərqlidir."
+        },
+        {
+            "id": 29,
+            "comment": "Çox incə və düşüncəli bir roman."
+        }
     ]
 }

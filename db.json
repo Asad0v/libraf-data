@@ -1165,5 +1165,12 @@
             "id": 29,
             "comment": "Çox incə və düşüncəli bir roman."
         }
-    ]
+    ],
+    "slider" : {
+        "img1" : "https://www.libraff.az/images/abt__ut2/banners/all/1312/C%CC%A7ingiz-Abdullayev---I%CC%87mza-saat%C4%B1-web-.webp",
+        "img2" : "https://www.libraff.az/images/abt__ut2/banners/all/1310/01-web-3840x1000.webp",
+        "img3" : "https://www.libraff.az/images/abt__ut2/banners/all/1305/martin-iden-desktop.webp",
+        "img4" : "https://www.libraff.az/images/abt__ut2/banners/all/1305/Hero-banner-desktop-20_-discount.webp",
+        "img5" : "https://www.libraff.az/images/abt__ut2/banners/all/1313/Banner_Desktop_v2.webp"
+    }
 }
